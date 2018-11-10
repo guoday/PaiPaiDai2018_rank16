@@ -1,2 +1,2 @@
-# ESIM_lm
-ESIM model with lanuage model
+# Introduction
+This's the variation of ESIM model with lanuage model, and the language model is very powerful.
